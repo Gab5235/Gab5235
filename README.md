@@ -8,8 +8,8 @@
 |Ocupação|Aluno|
 
 ## Sobre Mim
- - 👍   Olá, meu nome é Gabriel, tenho 14 anos
+ - 👍   Olá, meu nome é _Gabriel_, tenho 14 anos
  - 😧  Sou um aluno
   do 1 ano do Ensino Médio,
- - 🧑‍🎓  Atualmente estou estudando atráves do [Alura](https://alura.com.br)
+ - 🧑‍🎓  Atualmente estou estudando atráves do _[Alura](https://alura.com.br)_
 
